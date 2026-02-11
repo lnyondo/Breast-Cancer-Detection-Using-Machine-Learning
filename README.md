@@ -32,7 +32,7 @@ Confusion matrix:
 
 5‑fold cross‑validation:
 
---Fold accuracies: [0.9286, 0.9500, 0.9786, 0.9929, 0.9856]
+- Fold accuracies: [0.9286, 0.9500, 0.9786, 0.9929, 0.9856]
 
 - Mean CV accuracy: 0.9671.
 
