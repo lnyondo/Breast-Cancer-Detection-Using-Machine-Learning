@@ -38,3 +38,9 @@ Confusion matrix:
 
 ### Interpretation and Clinical Relevance
 The KNN model correctly classifies the vast majority of cases and achieves a strong balance between precision and recall for malignant tumors, suggesting that it can reliably flag most cancers while limiting false alarms. In a clinical setting, such a model is best viewed as a decision‑support tool: it could help prioritize cytology samples for expert review and highlight higher‑risk cases for further work‑up, while final diagnosis remains grounded in cytopathology, imaging, and clinician judgment.
+
+### Project Documents
+[Breast cancer Detection_B.pdf](https://github.com/user-attachments/files/25224703/Breast.cancer.Detection_B.pdf)
+
+[Breast cancer Detection Report.pdf](https://github.com/user-attachments/files/25224720/Breast.cancer.Detection.Report.pdf)
+
